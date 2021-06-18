@@ -1,2 +1,0 @@
-# Armin
-armin.github.io
